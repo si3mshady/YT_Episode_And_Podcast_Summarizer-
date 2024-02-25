@@ -1,0 +1,6 @@
+*json
+venv
+./venv
+*venv*
+*venv/
+*.mp4
