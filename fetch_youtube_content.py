@@ -7,9 +7,10 @@ ssl._create_default_https_context = ssl._create_unverified_context
 
 
 # Set your API key
-API_KEY = ''
+API_KEY = '-wA'
 
 # Set the YouTube channel ID
+# CHANNEL_NAME = "@MeidasTouch"
 CHANNEL_NAME = "@MeidasTouch"
 
 # Create a service object for interacting with the YouTube Data API
